@@ -51,7 +51,7 @@ This tap:
 
 ## Gotchas
 
-- `campaigns`: Taboola pushes `null` for `start_date` and `9999-12-31` for `end_date` sometimes. This tap converts `null` dates to `9999-12-31` for consistency. I don't know what that signifies at present. - @cmcarthur=
+- `campaigns`: Taboola pushes `null` for `start_date` and `9999-12-31` for `end_date` sometimes. This tap converts `null` dates to `9999-12-31` for consistency. I don't know what that signifies at present. - @cmcarthur
 
 ---
 
